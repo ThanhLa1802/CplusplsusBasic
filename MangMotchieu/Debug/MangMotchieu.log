@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\STUDY\Learn C++\Lesson\MangMotchieu\Source.cpp(7,6): warning C4101: 'arr': unreferenced local variable
+  MangMotchieu.vcxproj -> E:\STUDY\Learn C++\Lesson\Debug\MangMotchieu.exe

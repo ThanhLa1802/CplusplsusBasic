@@ -1,3 +1,0 @@
-﻿  Source.cpp
-E:\STUDY\Learn C++\Lesson\PTbac2\Source.cpp(26,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  PTbac2.vcxproj -> E:\STUDY\Learn C++\Lesson\Debug\PTbac2.exe

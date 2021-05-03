@@ -1,4 +1,0 @@
-﻿  ConstandRange.cpp
-E:\STUDY\Learn C++\Lesson\Constant\ConstandRange.cpp(4,16): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\STUDY\Learn C++\Lesson\Constant\ConstandRange.cpp(10,18): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Constant.vcxproj -> E:\STUDY\Learn C++\Lesson\Debug\Constant.exe

@@ -1,4 +1,0 @@
-﻿  Source.cpp
-E:\STUDY\Learn C++\Lesson\MangKyTu\Source.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
-E:\STUDY\Learn C++\Lesson\MangKyTu\Source.cpp(16,7): warning C4101: 'thanhdz': unreferenced local variable
-  MangKyTu.vcxproj -> E:\STUDY\Learn C++\Lesson\Debug\MangKyTu.exe
